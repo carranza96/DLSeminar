@@ -5,7 +5,7 @@ Introductory concepts to start building deep learning models with practical exam
 
 Slides: https://docs.google.com/presentation/d/1aKX26VP8V9qHrpqH-ZthQ5PKeQYkE5-kPWSZQeQaEkc/
 
-Video lesson 1 (Spanish): https://youtu.be/qatkDvDt6os
+Video lesson 1 (Spanish): https://youtu.be/_MHSyzNzznc
 
 ## Contents
 
