@@ -3,7 +3,8 @@
 
 Introductory concepts to start building deep learning models with practical examples
 
-Slides: https://docs.google.com/presentation/d/1aKX26VP8V9qHrpqH-ZthQ5PKeQYkE5-kPWSZQeQaEkc/
+Slides lesson 1: https://docs.google.com/presentation/d/1aKX26VP8V9qHrpqH-ZthQ5PKeQYkE5-kPWSZQeQaEkc/
+slides lesson 2: https://docs.google.com/presentation/d/14r7vunnxqjhvslUofgvcunGeTGZ9CB9zbsP3HeQJJiw/
 
 Video lesson 1 (Spanish): https://youtu.be/_MHSyzNzznc
 
