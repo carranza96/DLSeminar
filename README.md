@@ -24,7 +24,7 @@ Video lesson 1 (Spanish): https://youtu.be/_MHSyzNzznc
 
 * Practical examples using Keras and TensorFlow in Google Colab notebooks
   * [Mnist example using MLP and CNN](https://github.com/carranza96/DLSeminar/blob/master/notebooks/IntroDL_Mnist.ipynb)
-  * Time series forecasting
+  * [Time series forecasting](https://colab.research.google.com/github/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
 
 
 
