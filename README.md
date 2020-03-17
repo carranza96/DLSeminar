@@ -1,30 +1,31 @@
 
-# Seminar: Introduction to Deep Learning
+# Seminar: Introduction to Deep Learning for Time Series Forecasting
 
-Introductory concepts to start building deep learning models with practical examples
+* **Lesson 1: Introductory concepts to start building deep learning models with Keras**
+  * Slides: https://docs.google.com/presentation/d/1aKX26VP8V9qHrpqH-ZthQ5PKeQYkE5-kPWSZQeQaEkc/
+  * Video (Spanish): https://youtu.be/_MHSyzNzznc
+  * Colab notebook: [MNIST classification using MLP and CNN](https://github.com/carranza96/DLSeminar/blob/master/notebooks/IntroDL_Mnist.ipynb)
 
-Slides lesson 1: https://docs.google.com/presentation/d/1aKX26VP8V9qHrpqH-ZthQ5PKeQYkE5-kPWSZQeQaEkc/
+* **Lesson 2: Deep learning architectures for time series forecasting problems**
+  * Slides: https://docs.google.com/presentation/d/14r7vunnxqjhvslUofgvcunGeTGZ9CB9zbsP3HeQJJiw/
+  * Video (Spanish): 
+  * Colab notebook: [Time series forecasting](https://colab.research.google.com/github/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
 
-Slides lesson 2: https://docs.google.com/presentation/d/14r7vunnxqjhvslUofgvcunGeTGZ9CB9zbsP3HeQJJiw/
-
-
-Video lesson 1 (Spanish): https://youtu.be/_MHSyzNzznc
-
-## Contents
+## Summary of contents
 
 * Fundamental concepts of neural networks (neurons, training with backpropagation, activation functions)
+  * A more detailed explanation of theoretical concepts can be found at [Teoria Deep Learning]()
 
 * Deep learning architectures
-  * Multi-layer perceptron
-  * Convolutional Neural Networks
+  * Multi-layer perceptron (MLP)
+  * Convolutional Neural Networks (CNN)
   * Recurrent Neural Networks (LSTM)
-  * Temporal Convolutional Networks
+  * Temporal Convolutional Networks (TCN)
 
-* Deep learning applied to Time Series Forecasting
+* How to apply deep learning for time series forecasting problems
 
-* Practical examples using Keras and TensorFlow in Google Colab notebooks
-  * [Mnist example using MLP and CNN](https://github.com/carranza96/DLSeminar/blob/master/notebooks/IntroDL_Mnist.ipynb)
-  * [Time series forecasting](https://colab.research.google.com/github/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
+* Practical examples with Keras using Google Colab notebooks
+
 
 
 
