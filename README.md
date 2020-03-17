@@ -12,7 +12,7 @@
   * [Colab notebook: Time series forecasting](https://github.com/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
   
 * **Lesson 3: Tutorial on Azure Cloud for deep learning**
-  * [Slides]()
+  * [Slides](https://github.com/carranza96/DLSeminar/blob/master/Lesson3_Azure.pdf)
   * [Video (Spanish)](https://youtu.be/mqNUYSB4ZAk) 
   
 
