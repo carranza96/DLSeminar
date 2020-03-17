@@ -9,7 +9,7 @@
 * **Lesson 2: Deep learning architectures for time series forecasting problems**
   * [Slides](https://github.com/carranza96/DLSeminar/blob/master/Lesson2_TimeSeriesForecasting.pdf)
   * [Video (Spanish)]() 
-  * [Colab notebook: Time series forecasting](https://colab.research.google.com/github/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
+  * [Colab notebook: Time series forecasting](https://github.com/carranza96/DLSeminar/blob/master/notebooks/IntroDL_TSF.ipynb)
 
 ## Summary of contents
 
