@@ -39,5 +39,5 @@
 
 ## Authors <a name="authors"></a>
 
-* **Pedro Lara-Benítez** - [LinkedIn](www.linkedin.com/in/pedrolarben)
-* **Manuel Carranza-García** - [LinkedIn](https://www.linkedin.com/in/manuelcarranzagarcia96/)
+* **Pedro Lara-Benítez** - [@pedrolarben](https://www.github.com/pedrolarben) - [LinkedIn](https://www.linkedin.com/in/pedrolarben) 
+* **Manuel Carranza-García** - [@carranza96](https://www.github.com/carranza96) - [LinkedIn](https://www.linkedin.com/in/manuelcarranzagarcia96/)
